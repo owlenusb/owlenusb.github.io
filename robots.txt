@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://owlenusb.github.io/sitemap.html.gz
+Sitemap: https://owlenusb.github.io/app/sitemap.html.gz
+Sitemap: https://owlenusb.github.io/assets/sitemap.html.gz
+Sitemap: https://owlenusb.github.io/css/sitemap.html.gz
+Sitemap: https://owlenusb.github.io/includes/sitemap.html.gz
+Sitemap: https://owlenusb.github.io/item/sitemap.html.gz
+Sitemap: https://owlenusb.github.io/src/sitemap.html.gz
